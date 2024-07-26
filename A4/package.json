@@ -1,0 +1,17 @@
+{
+  "name": "a4",
+  "version": "1.0.0",
+  "main": "A4_tra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@azure/storage-blob": "^12.24.0",
+    "papaparse": "^5.4.1",
+    "readline-sync": "^1.4.10"
+  }
+}
